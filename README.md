@@ -1,1 +1,1 @@
-# lighspeed-api
+# Lightspeed Retail Api Connector for Shooting Supplies
